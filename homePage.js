@@ -1,5 +1,5 @@
 document.getElementById("viewCode").addEventListener("click", function () {
-  window.open("https://glitch.com/edit/#!/richardcode");
+  window.open("https://github.com/RichardLiuCode/richardcode");
 });
 document.getElementById("share").addEventListener("click", function () {
   navigator.share({
